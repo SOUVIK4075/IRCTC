@@ -10,7 +10,7 @@ source env/bin/activate  # macOS/Linux
 env\Scripts\activate     # Windows
 
 
-git clone git@github.com:SOUVIK4075/IRCTC.git
+git clone https://github.com/SOUVIK4075/IRCTC.git
 
 cd irctc
 cd core
